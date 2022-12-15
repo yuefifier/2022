@@ -1,0 +1,4 @@
+[core]
+    remote = bancai
+['remote "bancai"']
+    url = \\192.168.15.210//shijuedata//yff//test1//dtrain_20221102_v1
