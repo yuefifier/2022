@@ -1,0 +1,5 @@
+outs:
+- md5: b5846b1f64c706ea4ede1c142ed176fd.dir
+  size: 1230208
+  nfiles: 11
+  path: dtrain_20221102_v1
